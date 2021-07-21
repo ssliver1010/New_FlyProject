@@ -98,7 +98,7 @@ public class NewCatchGame extends JFrame
 			{
 				fly[i] = new JLabel(result);
 				if(i==0 || i==3 || i==11)
-					fly[i].setForeground(Color.DARK_GRAY);
+					fly[i].setForeground(Color.DARK_GRAY);	// 폭탄색 다크그레이로 수정 
 				fly[i].setSize(30,30);
 				add(fly[i]);
 			}				
