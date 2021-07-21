@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 import java.io.*;
 import java.util.Arrays;
 
-
+// 확인용 주석 !
 
 @SuppressWarnings("serial")
 public class NewCatchGame extends JFrame 
